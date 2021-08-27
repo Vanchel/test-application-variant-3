@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Тестовое Задание Вариант 3</string>
+    <string name="goods_label">Товары</string>
+    <string name="cart_label">Корзина</string>
+    <string name="error_hint">Во время загрузки товаров возникла ошибка.</string>
+    <string name="price_format">%1$.2f УЕ</string>
+    <string name="price_format_explicit">Цена: %1$.2f УЕ</string>
+    <string name="weight_format_explicit">Рейтинг: %1$.0f</string>
+    <string name="goods_image_description">Изображение товара</string>
+    <string name="to_cart">В корзину</string>
+    <string name="in_cart">В корзине</string>
+    <string name="cache_hint">Отображаются результаты из кеша</string>
+    <string name="sort">Сортировать</string>
+    <string name="price">Цена</string>
+    <string name="weight">Рейтинг</string>
+    <string name="total">Итого:</string>
+    <string name="empty_cart">В корзине ничего нет.</string>
+    <string name="goods_details">Подробности о товаре</string>
+</resources>

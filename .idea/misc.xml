@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Vanch/AndroidStudioProjects/TestApplicationVariant3/app/src/main/res/drawable/placeholder.xml" value="0.3828125" />
+        <entry key="..\:/Users/Vanch/AndroidStudioProjects/TestApplicationVariant3/app/src/main/res/layout/fragment_basket.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Vanch/AndroidStudioProjects/TestApplicationVariant3/app/src/main/res/layout/fragment_cart.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Vanch/AndroidStudioProjects/TestApplicationVariant3/app/src/main/res/layout/fragment_goods.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Vanch/AndroidStudioProjects/TestApplicationVariant3/app/src/main/res/layout/fragment_goods_detail.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Vanch/AndroidStudioProjects/TestApplicationVariant3/app/src/main/res/layout/fragment_goods_swipe.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Vanch/AndroidStudioProjects/TestApplicationVariant3/app/src/main/res/layout/list_item_goods.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Vanch/AndroidStudioProjects/TestApplicationVariant3/app/src/main/res/layout/list_item_goods_in_cart.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Vanch/AndroidStudioProjects/TestApplicationVariant3/app/src/main/res/layout/main_activity.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Vanch/AndroidStudioProjects/TestApplicationVariant3/app/src/main/res/layout/main_fragment.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Vanch/AndroidStudioProjects/TestApplicationVariant3/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Vanch/AndroidStudioProjects/TestApplicationVariant3/app/src/main/res/menu/filter_menu.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Vanch/AndroidStudioProjects/TestApplicationVariant3/app/src/main/res/menu/goods_menu.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Vanch/AndroidStudioProjects/TestApplicationVariant3/app/src/main/res/menu/menu_goods.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Vanch/AndroidStudioProjects/TestApplicationVariant3/app/src/main/res/menu/sort_menu.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Vanch/AndroidStudioProjects/TestApplicationVariant3/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.3828125" />
+        <entry key="..\:/Users/Vanch/AndroidStudioProjects/TestApplicationVariant3/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/Vanch/AndroidStudioProjects/TestApplicationVariant3/app/src/main/res/xml/network_security_config.xml" value="0.20520833333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
